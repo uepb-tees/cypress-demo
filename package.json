@@ -13,5 +13,8 @@
     "tees"
   ],
   "author": "rodrigo alves costa",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
 }
