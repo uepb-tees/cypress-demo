@@ -1,0 +1,17 @@
+{
+  "name": "cypress-demo-1",
+  "version": "0.0.1",
+  "description": "Cypress Demo - Topicos Especiais Eng de Software 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "rodrigo",
+    "uepb",
+    "tees"
+  ],
+  "author": "rodrigo alves costa",
+  "license": "MIT"
+}
